@@ -1,0 +1,9 @@
+.git/
+*.md
+Screenshot*.png
+Bodoni Cyrillic.ttf
+.DS_Store
+assets/.DS_Store
+.claude/
+AP.png
+AP-2.png
