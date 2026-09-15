@@ -225,12 +225,12 @@ body {
   transform: scaleX(1);
 }
 
-.footer-links .divider {
+/*.footer-links .divider {
   width: 1px;
   height: 10px;
   background: var(--hairline);
 }
-
+*/
 .copyright {
   margin: 0;
   font-family: Georgia, "Times New Roman", serif;
