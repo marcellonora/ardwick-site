@@ -91,7 +91,7 @@ body {
   position: relative;
   display: inline-block;
   font-size: clamp(2rem, 7vw, 5.5rem);
-  transform: translateY(-8px);
+  transform: translateY(-50px);
 }
 
 .monogram {
